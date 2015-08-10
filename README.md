@@ -1,2 +1,2 @@
-# real-time-web-with-nodejd
-CodeSchool's NodeJs Tutorial
+# CodeSchool's NodeJs Tutorial: real-time-web-with-nodejd
+
